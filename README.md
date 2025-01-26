@@ -1,4 +1,4 @@
-![App Logo](resources\logo.png)
+![App Logo](resources/logo.png)
 
 # Key Keeper
 

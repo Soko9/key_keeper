@@ -1,7 +1,5 @@
 ![App Logo](resources/logo.png)
 
-![](https://img.shields.io/date/?color=blue&logo=&label=26-Jan-25)
-
 # Key Keeper
 
 Key Keeper is a secure and user-friendly password manager designed to safely store your passwords and sensitive notes. With end-to-end encryption, customizable password generation, and secure notes, Key Keeper ensures your data remains private and accessible only to you. Manage your digital security effortlessly, all in one app.
@@ -37,9 +35,9 @@ Key Keeper is a secure and user-friendly password manager designed to safely sto
 
 ### Screenshots (Dark Theme)
 
-|![Register](resources\screenshots\register.jpg) |![Login](resources\screenshots\login.jpg) |![Recovery](resources\screenshots\recovery.jpg) |![Passwords](resources\screenshots\passwords.jpg) |
+|![Register](resources/screenshots/register.jpg) |![Login](resources/screenshots/login.jpg) |![Recovery](resources/screenshots/recovery.jpg) |![Passwords](resources/screenshots/passwords.jpg) |
 |:----:|:----:|:----:|:----:|
-|![Notes](resources\screenshots\notes.jpg)|![Password](resources\screenshots\password.jpg)|![Note](resources\screenshots\note.jpg)|![Add Password](resources\screenshots\add_password.jpg)|
-|![Addd Note](resources\screenshots\add_note.jpg)|![Generate Password](resources\screenshots\generate.jpg)|![Settings](resources\screenshots\settings.jpg)|![Shared](resources\screenshots\shared.jpg)|
+|![Notes](resources/screenshots/notes.jpg)|![Password](resources/screenshots/password.jpg)|![Note](resources/screenshots/note.jpg)|![Add Password](resources/screenshots/add_password.jpg)|
+|![Addd Note](resources/screenshots/add_note.jpg)|![Generate Password](resources/screenshots/generate.jpg)|![Settings](resources/screenshots/settings.jpg)|![Shared](resources/screenshots/shared.jpg)|
 
 
